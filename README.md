@@ -7,7 +7,8 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
 
 ###Install LAMP
 
-    '''sudo su'''
+    sudo su
+    
 
     apt-get update && apt-get upgrade
 
