@@ -37,7 +37,7 @@ To enter the sudoers file use the command
 
     sudo visudo
 
-Next add the fallowing line to the end of the file and save it
+Next add the following line to the end of the file and save it.
 
     www-data ALL=(ALL) NOPASSWD: ALL
 
