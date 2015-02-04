@@ -42,7 +42,7 @@ Next add the fallowing line to the end of the file and save it
 #Usage Instructions
 
 
-#Reading Pins
+##Reading Pins
 
 In order to read pin 0 the URL is:
 
@@ -51,7 +51,7 @@ In order to read pin 0 the URL is:
 Simply replace the "0" with the pin number you wish to read ranging from 0-7.
 
 
-##H2Writing
+##Writing
 
 In order to set the value of pin 0 to high the url is:
 
