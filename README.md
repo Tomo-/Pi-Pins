@@ -39,7 +39,7 @@ Next add the fallowing line to the end of the file and save it
 
     www-data ALL=(ALL) NOPASSWD: ALL
 
-Usage
+#Usage
 
 In order to read the 0 pin the url is.
 
