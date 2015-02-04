@@ -5,11 +5,11 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
 
 #Installation
 
+####Run Each Command Individually
+
 ###Install LAMP
 
     sudo su
-    
-    
     
     apt-get update && apt-get upgrade
 
