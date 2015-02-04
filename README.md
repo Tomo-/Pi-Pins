@@ -5,7 +5,7 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
 
 #Installation
 
-Install LAMP
+###Install LAMP
 
     sudo su
 
@@ -15,7 +15,7 @@ Install LAMP
 
     cd /var/www
 
-Install GPIO Python library
+###Install GPIO Python library
 
     wget http://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.5.9.tar.gz
 
