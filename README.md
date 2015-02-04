@@ -9,7 +9,6 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
 
     sudo su
     
-
     apt-get update && apt-get upgrade
 
     apt-get install apache2 php5 mysql-client mysql-server tomcat6 vsftpd
