@@ -55,7 +55,7 @@ Simply replace the "0" with the pin number you wish to read ranging from 0-7.
 
 ##Writing
 
-In order to set the value of pin 0 to high the url is:
+In order to set the value of pin 0 to high the URL is:
 
     PiAddress/pi-write.php?io=1&pin=0
 
