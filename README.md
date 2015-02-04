@@ -39,17 +39,23 @@ Next add the fallowing line to the end of the file and save it
 
     www-data ALL=(ALL) NOPASSWD: ALL
 
-#Usage
+#Usage Instructions
 
-In order to read the 0 pin the url is.
 
-    PiAddress/pi-read.php?pin=0
+#Reading Pins
 
-Simply replace the "0" with and number 0-7 to read that pin.
+In order to read pin 0 the URL is:
 
-In order to set the value of pin 0 to high the url is.
+    PiAddress*/pi-read.php?pin=0
 
-    PiAddress/pi-write.php?io=1&pin=0
+Simply replace the "0" with the pin number you wish to read ranging from 0-7.
+
+
+##H2Writing
+
+In order to set the value of pin 0 to high the url is:
+
+    PiAddress*/pi-write.php?io=1&pin=0
 
 To set value to low change
 
@@ -59,4 +65,4 @@ to
 
     io=0
 
-The "PiAddress"should be changed to the IP address of your Raspberry Pi.
+The "PiAddress*"should be changed to the IP address of your Raspberry Pi.
