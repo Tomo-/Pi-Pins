@@ -1,7 +1,7 @@
 <?php
 
-+$pin = escapeshellarg($_GET['pin']);
-+$mode = escapeshellarg($_GET['io']);
+$pin = escapeshellarg($_GET['pin']);
+$mode = escapeshellarg($_GET['io']);
 $command = "sudo python pinwrite.py $mode $pin";
 
 //echo($command);
@@ -12,4 +12,4 @@ echo($result);
 
 
 
-+?>
+?>
