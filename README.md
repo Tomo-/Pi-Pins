@@ -1,5 +1,5 @@
 # Pi-Pins
-Provides a simple interface for reading and controlling the GPIO pins on the Raspberry Pi and Raspberry Pi 2 from a web browser.
+Provides a simple interface for reading and controlling the GPIO pins on the Raspberry Pi model B, B+ and Raspberry Pi 2 from a Web Browser.
 
 
 
