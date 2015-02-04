@@ -3,7 +3,7 @@ This is a simple interface for reading and controlling the GPIO pins on the Rasp
 
 
 
-Installation
+#Installation
 
 Install LAMP
 
