@@ -30,14 +30,10 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
 **While in the www directory** clone the Pi-Pins folder
 
     git clone https://github.com/Tomo-/Pi-Pins.git
+    cd /Pi-Pins/
+    sudo mv *.py *.php /var/www/
     
     
-Move The files:
-
-'''bash
-sudo mv *.py *.php /var/www/
-'''
-
 In order to allow the PHP to use the Python scripts the PHP user needs to be added to the sudoers file.
 
 To enter the sudoers file use the command
