@@ -50,7 +50,7 @@ In order to read pin 0 the URL is:
 
     PiAddress/pi-read.php?pin=0
 
-Simply replace the "0" with the pin number you wish to read ranging from 0-28.
+Simply replace the "0" with the pin number you wish to read ranging from 0-27.
 
 
 ##Writing
