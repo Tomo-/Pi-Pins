@@ -27,7 +27,9 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
 
     sudo python setup.py install
 
-**While in the www directory** clone the Pi-Pins folder
+**While in the www directory** clone the Pi-Pins folder:
+
+    cd /var/www/
 
     git clone https://github.com/Tomo-/Pi-Pins.git
     
