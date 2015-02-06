@@ -29,13 +29,13 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
 
 **While in the www directory** clone the Pi-Pins folder:
 
-    cd /var/www/
+    cd /var/www
 
     git clone https://github.com/Tomo-/Pi-Pins.git
     
-    cd /Pi-Pins/
+    cd Pi-Pins
     
-    sudo mv *.py *.php /var/www/
+    sudo mv *.py *.php /var/www
     
     
     
