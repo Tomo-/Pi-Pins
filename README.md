@@ -33,8 +33,10 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
     
     
 Move The files:
-'''sudo mv *.ext *.xml *.txt /path/to/dest/folder/'''
 
+'''bash
+sudo mv *.py *.php /var/www/
+'''
 
 In order to allow the PHP to use the Python scripts the PHP user needs to be added to the sudoers file.
 
