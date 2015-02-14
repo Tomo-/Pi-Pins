@@ -3,7 +3,7 @@ import RPi.GPIO as GPIO
 
 help = sys.argv
 
- pin = [11, 12, 13, 15, 16, 18, 22, 7]
+pin = [11, 12, 13, 15, 16, 18, 22, 7]
 
 pinIn = help[2]
 mode = help[1]
