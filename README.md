@@ -1,5 +1,5 @@
 # Pi-Pins
-Provides a simple interface for reading and controlling the GPIO pins on the Raspberry Pi model B, B+ from a Web Browser.
+Provides a simple interface for reading and controlling the GPIO pins on the Raspberry Pi model B, B+, Raspberry Pi 2 from a Web Browser.
 
 
 
@@ -19,11 +19,11 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
 
 ###Install GPIO Python library
 
-    wget http://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.5.10-1.tar.gz
+    wget http://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.5.10.tar.gz
 
-    tar zxf RPi.GPIO-0.5.10-1.tar.gz
+    tar zxf RPi.GPIO-0.5.10.tar.gz
 
-    cd RPi.GPIO-0.5.10-1
+    cd RPi.GPIO-0.5.10
     
     sudo apt-get install python-dev
 
