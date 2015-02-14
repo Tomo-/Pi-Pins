@@ -1,8 +1,8 @@
 <?php
 
-$pin = escapeshellarg($_GET['pin']);
-$mode = escapeshellarg($_GET['io']);
-$command = "sudo python pinwrite.py $mode $pin";
+$pin = $_GET['pin'];
+$mode = $_GET['io'];
+$command = "sudo python pioven.py $mode $pin";
 
 //echo($command);
 
