@@ -13,3 +13,4 @@ if GPIO.input(pin[channel]):
 	print "1"
 else:
 	print "0"
+
