@@ -1,5 +1,6 @@
 import sys
 import RPi.GPIO as GPIO
+GPIO.setmode(GPIO.BOARD)
 
 help = sys.argv
 
