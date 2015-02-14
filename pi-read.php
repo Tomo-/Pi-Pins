@@ -1,6 +1,6 @@
 <?php
 
-$pin = $_GET['pin'];
+$pin = escapeshellarg($_GET['pin']);
 
 $command = "sudo python pinread.py $pin";
 
