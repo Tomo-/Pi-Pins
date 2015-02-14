@@ -2,7 +2,7 @@
 
 $pin = $_GET['pin'];
 $mode = $_GET['io'];
-$command = "sudo python pioven.py $mode $pin";
+$command = "sudo python pinwrite.py $mode $pin";
 
 //echo($command);
 
