@@ -19,11 +19,11 @@ Provides a simple interface for reading and controlling the GPIO pins on the Ras
 
 ###Install GPIO Python library
 
-    wget http://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.1.0.tar.gz
+    wget http://pypi.python.org/packages/source/R/RPi.GPIO/RPi.GPIO-0.5.10-1.tar.gz
 
-    tar zxf RPi.GPIO-0.1.0.tar.gz
+    tar zxf RPi.GPIO-0.5.10-1.tar.gz
 
-    cd RPi.GPIO-0.1.0
+    cd RPi.GPIO-0.5.10-1
     
     sudo apt-get install python-dev
 
