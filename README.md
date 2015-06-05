@@ -1,5 +1,5 @@
 # Pi-Pins
-Provides a simple interface for reading and controlling the GPIO pins on the Raspberry Pi model B, B+, Raspberry Pi 2 from a Web Browser.
+Provides a simple interface for reading and controlling the GPIO pins on the Raspberry Pi model B, B+, Raspberry Pi 2 from a Web Browser. Pi-Pins is used as the back end in PiSwitch iOS App.
 
 
 
